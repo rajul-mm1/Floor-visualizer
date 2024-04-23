@@ -1,0 +1,8 @@
+path: PycharmProjects/pythonProject/data.yaml
+train: PycharmProjects\pythonProject\newdataset\train
+val: PycharmProjects\pythonProject\newdataset\valid
+
+#nc: 1
+names:
+  0: Floor
+
